@@ -12,9 +12,9 @@ export const siteConfig = {
 
 export const contactConfig = {
   email: 'tarolv3@gmail.com',
-  github: 'https://github.com/inanitionnn',
-  linkedin: 'https://www.linkedin.com/in/oleksandr-tarasiuk-backend/',
-  telegram: 'https://t.me/inanitionnn',
+  github: 'https://github.com/oltarasiuk',
+  linkedin: 'https://www.linkedin.com/in/oltarasiuk/',
+  telegram: 'https://t.me/oltarasiuk',
   cvPath: '/CV_Nodejs_Tarasiuk.pdf',
 };
 
@@ -229,7 +229,7 @@ export const languagesConfig: LanguageEntry[] = [
   {
     language: 'English',
     level: 'B2',
-    note: 'TOEFL iBT in progress',
+    note: 'TOEFL iBT 90/120',
   },
   {
     language: 'German',
